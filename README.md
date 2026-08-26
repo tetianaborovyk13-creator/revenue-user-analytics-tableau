@@ -35,5 +35,5 @@ This project delivers a comprehensive SaaS/Product analytics dashboard built in 
 ---
 
 ## 🚀 How to View
-1. Review the full SQL transformations in `Project SQL.sql`.
+1. Review the full SQL transformations in `Project SQL.sql`. 
 2. Interact with the live visualization on [[Tableau Public](https://public.tableau.com/views/RevenueUserAnalytics_17869812463390/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)].
