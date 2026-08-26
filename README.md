@@ -1,4 +1,4 @@
-# 📊 Executive Revenue & User Analytics Dashboard
+# 📊 Executive Revenue & User Analytics
 
 🔗 **[[View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/RevenueUserAnalytics_17869812463390/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]
 
