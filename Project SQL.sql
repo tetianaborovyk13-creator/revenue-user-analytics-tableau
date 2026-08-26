@@ -1,6 +1,3 @@
-
-    
-    
 with date_grid as (
 -- Генеруємо список усіх унікальних місяців з платежів
     SELECT DISTINCT DATE_TRUNC('month', payment_date)::DATE AS payment_month
